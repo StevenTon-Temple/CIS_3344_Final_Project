@@ -1,0 +1,118 @@
+[
+
+  {
+    "processorId": "1",
+    "name": "AMD Ryzen 5 7600X",
+    "image": "https://www.amd.com/system/files/2022-09/1536834-amd-ryzen-5-7000-series-PIB-angle-1260x709.png",
+    "price": "$299",
+    "releasedate": "9/27/2022",
+    "stock": "In Stock",
+    "webUserId": "11",
+    "userEmail": "abha@temple.edu",
+    "userImages": "http://cis-linux2.temple.edu/~sallyk/pics_users/abha.jpg"
+
+  },
+  {
+    "processorId": "2",
+    "name": "AMD Ryzen 7 7700X",
+    "image": "https://www.amd.com/system/files/2022-09/1536834-amd-ryzen-7-7000-series-PIB-angle-1260x709.png",
+    "price": "$399",
+    "releasedate": "9/27/2022",
+    "stock": "In Stock",
+    "webUserId": "5",
+    "userEmail": "jenGarner@hollywood.com",
+    "userImages": "https://i.pinimg.com/originals/55/08/a0/5508a0d858023e758892f09f35b53c93.jpg"
+
+  },
+  {
+    "processorId": "3",
+    "name": "AMD Ryzen 9 7900X",
+    "image": "https://www.amd.com/system/files/2022-09/1536834-amd-ryzen-7-7000-series-PIB-angle-1260x709.png",
+    "price": "$549",
+    "releasedate": "9/27/2022",
+    "webUserId": "12",
+    "stock": "In Stock",
+    "userEmail": "dominic@temple.edu",
+    "userImages": "http://cis-linux2.temple.edu/~sallyk/pics_users/dominic.jpg"
+
+  },
+  {
+    "processorId": "4",
+    "name": "Intel Core i5-11600K",
+    "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71l9KM7GhzL._AC_SL1500_.jpg",
+    "price": "",
+    "releasedate": "11/1/2021",
+    "stock": "Out Of Stock",
+    "webUserId": "346",
+    "userEmail": "jamie@gmail.com",
+    "userImages": "http://cis-linux2.temple.edu/~sallyk/pics_users/eduard.jpg"
+  },
+  {
+    "processorId": "5",
+    "name": "Intel Core i9-12900K",
+    "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/51fd8tJsqCL._AC_SL1280_.jpg",
+    "price": "$499.98",
+    "releasedate": "",
+    "stock": "In Stock",
+    "webUserId": "1",
+    "userEmail": "sallyk@temple.edu"
+  },
+  {
+    "processorId": "6",
+    "name": "Intel Core i9-12900KS",
+    "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61oiLbWvC-L._AC_SL1280_.jpg",
+    "price": "$648.79",
+    "releasedate": "4/5/2022",
+    "stock": "In Stock",
+    "webUserId": "6",
+    "userEmail": "oprah@talk.com",
+    "userImages": "https://www.iceposter.com/thumbs/G339317_b.jpg"
+  },
+  {
+    "processorId": "7",
+    "name": "Corsair Vengeance RGB Pro 32GB (2x16GB)",
+    "image": "https://m.media-amazon.com/images/I/81LCoH4sOsS._AC_SL1500_.jpg",
+    "price": "$114.99",
+    "releasedate": "",
+    "stock": "In Stock",
+    "webUserId": "2",
+    "userEmail": "benAffleck@rehab.com",
+    "userImages": "https://hairstyles.thehairstyler.com/hairstyle_views/front_view_images/6986/original/Ben-Affleck.jpg"
+
+  },
+  {
+    "processorId": "8",
+    "name": "AMD Ryzen 5 5600X 6-core",
+    "image": "https://m.media-amazon.com/images/I/61vGQNUEsGL._AC_SL1384_.jpg",
+    "price": "$142.38",
+    "releasedate": "11/1/2020",
+    "stock": "In Stock",
+    "webUserId": "2",
+    "userEmail": "benAffleck@rehab.com",
+    "userImages": "https://hairstyles.thehairstyler.com/hairstyle_views/front_view_images/6986/original/Ben-Affleck.jpg"
+
+  },
+  {
+    "processorId": "9",
+    "name": "AMD Ryzen 5 5600G 6-Core",
+    "image": "https://m.media-amazon.com/images/I/51f2hkWjTlL._AC_SL1200_.jpg",
+    "price": "",
+    "releasedate": "",
+    "stock": "Out of Stock",
+    "webUserId": "12",
+    "userEmail": "dominic@temple.edu",
+    "userImages": "http://cis-linux2.temple.edu/~sallyk/pics_users/dominic.jpg"
+  },
+  {
+    "processorId": "10",
+    "name": "Intel Core i7-12700KF",
+    "image": "https://m.media-amazon.com/images/I/51o+isnQxdL._AC_SL1000_.jpg",
+    "price": "$363.91",
+    "releasedate": "11/5/2021",
+    "stock": "In Stock",
+    "webUserId": "12",
+    "userEmail": "dominic@temple.edu",
+    "userImages": "http://cis-linux2.temple.edu/~sallyk/pics_users/dominic.jpg"
+
+  }
+]

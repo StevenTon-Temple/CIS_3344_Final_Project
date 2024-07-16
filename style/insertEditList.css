@@ -1,0 +1,39 @@
+
+.insertEditList {
+    background-color: lightslategrey;
+    margin: 1rem;
+    border-radius: 0.5rem;
+    padding: 0.1rem 0rem; /* 1st is top/bottom, 2nd is left/right */
+    
+}
+
+    .insertEditList .ele {
+        background-color: #DDDDDD;
+        margin: 0.25rem;
+        padding: 0rem; /* 1st is top/bottom, 2nd is left/right */
+        border-radius: 0.5rem;
+        
+    }
+
+        .insertEditList .ele span {
+            height: 1.5rem;
+            font-size: 0.8rem;
+            margin: 0rem 0.5rem; /* 1st is top/bottom, 2nd is left/right */
+            position: inherit;
+            bottom: 1rem;
+            
+        }
+    .insertEditList .radio {
+        font-weight: bold;
+        padding: 0.5rem;
+        border: thin solid black;
+        margin: 0.5rem;
+    }
+        .insertEditList .ele img {
+            height: 3rem;
+            margin-bottom: -0.25rem;
+            border-radius: 0.5rem;
+        }
+    .insertEditList .button{
+        background-color:lightgreen;
+    }

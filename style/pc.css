@@ -1,0 +1,21 @@
+﻿.pc {
+    background-color: darkgray;
+    border-radius: 0.5rem;
+    padding: 3rem;
+    margin: 1rem;
+    color: black;
+    display: inline-grid;
+    text-align:left;
+
+}
+.pc button {
+    background-color: lightcoral;
+    color: black;
+    text-align:center;
+}
+.pc img{
+    float : right;
+    width: 300px;
+    border-radius: 10px;
+    height: auto;
+}

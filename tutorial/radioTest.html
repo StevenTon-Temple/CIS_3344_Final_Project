@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="radio.css" rel="stylesheet"/>
+        <style>
+            .radio {
+                font-weight: bold;
+                padding:0.5rem;
+                border:thin solid black;
+                margin:0.5rem;
+            }
+            .radio p {
+                margin:0rem;
+                margin-left: 0.5rem;
+                font-weight:normal;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="radioContent"></div>
+        <button onclick="showRadio()">Show</button>
+        <div id="msg"></div>
+
+        <script src="MakeTag.js"></script>
+        <script src="MakeRadio.js"></script>
+
+        <script>
+
+            // function MakeRadio(prompt, inpName, objList, selected) {
+            // objList properties: showOption and value
+            var optionList = ["Cheeze", "Mushrooms", "Pepperoni"];
+
+            var radio = MakeRadio({
+                prompt: "Pizza Topping",
+                list: optionList,
+                selected: "Mushrooms"
+            });
+
+            document.getElementById("radioContent").appendChild(radio);
+
+            var optionList2 = ["Freshman", "Sophomore", "Junior", "Senior"];
+
+            var radio2 = MakeRadio({
+                prompt: "College Class",
+                list: optionList2
+                        // selected: ... if you dont provide a selected value (or if it doesnt match any value), 
+                        // no radio option is pre-selected.
+            });
+
+            document.getElementById("radioContent").appendChild(radio2);
+
+            function showRadio() {
+
+                document.getElementById("msg").innerHTML =
+                        "1st radio button has this value: " + radio.getValue() +
+                        "<br/>2nd radio button has this value: " + radio2.getValue();
+            }
+        </script>
+
+    </body>
+</html>
